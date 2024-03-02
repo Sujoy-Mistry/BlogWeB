@@ -1,0 +1,10 @@
+mmm: ddd
+
+
+aws:
+  s3Service:
+    accessKey: AKIA6ODUZ32XY3
+    secretKey: +7Pakkuj+5IMFaW3/JySSw+
+    bucketName: blogimageword
+    keyName: Thumb
+    regionName: US_EAST_1
